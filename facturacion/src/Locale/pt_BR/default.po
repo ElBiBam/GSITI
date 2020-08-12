@@ -1,0 +1,369 @@
+msgid "Email"
+msgstr "Correio"
+
+msgid "Add Product"
+msgstr "Adicionar produto"
+
+msgid "List Voucher Details"
+msgstr "Detalhes do comprovante"
+
+msgid "New Voucher Detail"
+msgstr "Novo detalhe do voucher"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Add Voucher Header"
+msgstr "Adicionar cabeçalho do comprovante"
+
+msgid "Add Voucher Detail"
+msgstr "Adicionar detalhes do comprovante"
+
+msgid "Report Sales"
+msgstr "R. de vendas"
+
+msgid "Report Stock"
+msgstr "R. de estoque"
+
+msgid "Page"
+msgstr "Página"
+
+msgid "Sign in"
+msgstr "Assinar em"
+
+msgid "of"
+msgstr "de"
+
+msgid "showing"
+msgstr "mostrando"
+
+msgid "record"
+msgstr "registro"
+
+msgid "out of total"
+msgstr "de um total de"
+
+msgid "Export to PDF"
+msgstr "Exportar para PDF"
+
+msgid "Voucher Header Id"
+msgstr "ID do cabeçalho do comprovante"
+
+msgid "Product Id"
+msgstr "ID do produto"
++
+msgid "Price"
+msgstr "preço"
+
+msgid "Related Voucher Details"
+msgstr "Detalhes relacionados ao voucher" 
+
+msgid "name"
+msgstr "nome"
+
+msgid "Name"
+msgstr "nome"
+
+msgid "surname"
+msgstr "sobrenome"
+
+msgid "Surname"
+msgstr "sobrenome"
+
+msgid "Warehouse"
+msgstr "Armazém"
+
+msgid "Warehouses"
+msgstr "Armazém"
+
+msgid "warehouse"
+msgstr "Armazém"
+
+msgid "Client"
+msgstr "Cliente"
+
+msgid "Clients"
+msgstr "Clientes"
+
+msgid "client"
+msgstr "Cliente"
+
+msgid "phone"
+msgstr "telefone"
+
+msgid "Phone"
+msgstr "telefone"
+
+msgid "Status"
+msgstr "status"
+
+msgid "status"
+msgstr "status"
+
+msgid "created"
+msgstr "criado"
+
+msgid "Created"
+msgstr "criado"
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "modified"
+msgstr "Modificado"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Person"
+msgstr "Pessoa"
+
+msgid "person"
+msgstr "Pessoa"
+
+msgid "Persons"
+msgstr "Pessoa"
+
+msgid "Providers"
+msgstr "Fornecedores"
+
+msgid "Users"
+msgstr "Comercial"
+
+msgid "Vouchers"
+msgstr "Vouchers"
+
+msgid "Products"
+msgstr "Produtos"
+
+msgid "Sellers"
+msgstr "Vendedores"
+
+msgid "persons"
+msgstr "personas"
+
+msgid "View"
+msgstr "Visão"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Excluir"s
+
+msgid " Logout"
+msgstr " Sair"
+
+msgid " Login"
+msgstr " Conecte-se
+"
+
+msgid "Login"
+msgstr "Conecte-se
+"
+
+msgid "login"
+msgstr "entrar"
+
+msgid "LOGIN"
+msgstr "SAIR"
+
+msgid "Login"
+msgstr "CONECTE-SE"
+
+msgid "Logout"
+msgstr "Sair"
+
+msgid "LOGOUT"
+msgstr "SAIR"
+
+msgid "Password"
+msgstr "Senha"
+
+msgid "City"
+msgstr "Cidade"
+
+msgid "Cities"
+msgstr "CidadeS"
+
+msgid "city"
+msgstr "Cidade"
+
+msgid "cities"
+msgstr "CidadeS"     
+
+msgid "Voucher Detail"
+msgstr "Voucher Detai
+"
+
+msgid "User"
+msgstr "utilizador"
+
+msgid "description"
+msgstr "descrição"
+
+msgid "Description"
+msgstr "descrição"
+
+msgid "Quantity"
+msgstr "Quantidade"
+
+msgid "quantity"
+msgstr "Quantidade"
+
+msgid "View"
+msgstr "Visão"
+
+msgid "view"
+msgstr "Visão"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "Search by name"
+msgstr "Procura por nome"
+
+msgid "Search by description"
+msgstr "Pesquisa por descrição"
+
+msgid "Related Clients"
+msgstr "Clientes relacionados"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "Issue Date"
+msgstr "Data de emissão"
+
+msgid "Voucher Type"
+msgstr "Tipo de comprovante"
+
+msgid "Seller"
+msgstr "Vendedor"
+
+msgid "new Product"
+msgstr "novo produto"                           
+
+msgid "List Product Types"
+msgstr "Listar tipos de produtos"
+
+msgid "New Product Type"
+msgstr "Novo tipo de produto"
+
+msgid "List vaucher Details"
+msgstr "Detalhes do List vaucher"
+
+msgid "List Providers"
+msgstr "Lista de fornecedores"
+
+msgid "New Provider"
+msgstr "Novo Fornecedor"
+
+msgid "List Warehouses"
+msgstr "Listar armazéns"
+
+msgid "New Warehouse"
+msgstr "Nuevo Almacén"
+
+msgid "Quantity"
+msgstr "Quantidade"
+                                         
+msgid "Product Type"
+msgstr "Tipo de Produto"
+
+msgid "List" 
+msgstr "Lista"
+
+msgid "Products "
+msgstr "Produtos"
+
+msgid "of"
+msgstr "dO" 
+
+
+msgid "Search " 
+msgstr "Procurar" 
+
+msgid " by "
+msgstr "por"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "New "
+msgstr "NOvo"
+
+msgid "Login"
+msgstr "entrar"
+
+msgid "List Voucher Types"
+msgstr "Listar tipos de comprovante"
+
+msgid "New Voucher Type"
+msgstr "Novo tipo de comprovante"
+
+msgid "List Voucher Headers"
+msgstr "Novo cabeçalho de comprovante"
+
+msgid "New Voucher Header"
+msgstr "Novo cabeçalho de comprovante"
+
+msgid "List Sellers"
+msgstr "Vendedores"
+
+msgid "New Seller"
+msgstr "NOVO Vendedor"
+
+msgid "List Clients"
+msgstr "Clientes"
+
+msgid "New Client"
+msgstr "NOvo Cliente"
+
+msgid "List Persons"
+msgstr "Pessoas"
+
+msgid "New Person"
+msgstr "NOVO Pessoa"
+
+msgid "List Products"
+msgstr "Produtos"
+
+msgid "New Product"
+msgstr "Novo Produtos"
+
+msgid "List Users"
+msgstr "Usuários"
+
+msgid "New User"
+msgstr "Novo usuário"
+
+msgid "List Cities"
+msgstr "Cidades"
+
+msgid "New City"
+msgstr "Cidade nova"
+
+msgid "List Roles"
+msgstr "Funções"
+
+msgid "New Rol"
+msgstr "Novo papel"
+
+msgid "Search by issue date"
+msgstr "Pesquisa por data de emissão"
+
+msgid "Retype the characters from the picture"
+msgstr "Digite novamente os caracteres da imagem"
+
+msgid "Seller"
+msgstr "Vendedor" 
+
+msgid "Issue Date"
+msgstr "Data do assunto"
+
+msgid "Voucher Type"
+msgstr "Tipo de cédula"
