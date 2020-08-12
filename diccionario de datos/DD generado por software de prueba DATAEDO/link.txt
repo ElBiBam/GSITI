@@ -1,0 +1,1 @@
+https://dataedo.com/kb/tools/mysql-workbench/how-to-export-data-dictionary#:~:text=When%20you%20have%20a%20model,schema%20report%20in%20HTML%20format.
